@@ -1,0 +1,18 @@
+[
+    {
+        "riwayat_prestasi_id": "22d2f1af-4703-473f-98c1-f61d88213ccc",
+        "jenis_prestasi_id": 2,
+        "nama_prestasi": "Juara 3 lomba makan kelereng",
+        "tahun": 2021,
+        "pencapaian": "juara 3",
+        "tingkat_prestasi_id": 1
+    },
+    {
+        "riwayat_prestasi_id": "6401e182-77ac-4ecc-ab12-8712c063f7ac",
+        "jenis_prestasi_id": 1,
+        "nama_prestasi": "Juara 1 lomba puisi",
+        "tahun": 2017,
+        "pencapaian": "juara 1",
+        "tingkat_prestasi_id": 1
+    }
+]
